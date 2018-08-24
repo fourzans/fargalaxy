@@ -1,0 +1,6 @@
+C:\Users\Nicolas\Source\Repos\FarGalaxy\FarGalaxy.Contracts\bin\Debug\FarGalaxy.Contracts.dll
+C:\Users\Nicolas\Source\Repos\FarGalaxy\FarGalaxy.Contracts\bin\Debug\FarGalaxy.Contracts.pdb
+C:\Users\Nicolas\Source\Repos\FarGalaxy\FarGalaxy.Contracts\obj\Debug\FarGalaxy.Contracts.csproj.CoreCompileInputs.cache
+C:\Users\Nicolas\Source\Repos\FarGalaxy\FarGalaxy.Contracts\obj\Debug\FarGalaxy.Contracts.dll
+C:\Users\Nicolas\Source\Repos\FarGalaxy\FarGalaxy.Contracts\obj\Debug\FarGalaxy.Contracts.pdb
+C:\Users\Nicolas\Source\Repos\FarGalaxy\FarGalaxy.Contracts\obj\Debug\FarGalaxy.Contracts.csprojAssemblyReference.cache

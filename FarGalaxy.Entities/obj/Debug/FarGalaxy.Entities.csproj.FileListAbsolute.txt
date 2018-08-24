@@ -1,0 +1,13 @@
+C:\Users\Nicolas\Source\Repos\FarGalaxy\FarGalaxy.Entities\bin\Debug\FarGalaxy.Entities.dll
+C:\Users\Nicolas\Source\Repos\FarGalaxy\FarGalaxy.Entities\bin\Debug\FarGalaxy.Entities.pdb
+C:\Users\Nicolas\Source\Repos\FarGalaxy\FarGalaxy.Entities\bin\Debug\FarGalaxy.Contracts.dll
+C:\Users\Nicolas\Source\Repos\FarGalaxy\FarGalaxy.Entities\bin\Debug\FarGalaxy.Mathematics.dll
+C:\Users\Nicolas\Source\Repos\FarGalaxy\FarGalaxy.Entities\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Nicolas\Source\Repos\FarGalaxy\FarGalaxy.Entities\bin\Debug\FarGalaxy.Contracts.pdb
+C:\Users\Nicolas\Source\Repos\FarGalaxy\FarGalaxy.Entities\bin\Debug\FarGalaxy.Mathematics.pdb
+C:\Users\Nicolas\Source\Repos\FarGalaxy\FarGalaxy.Entities\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Nicolas\Source\Repos\FarGalaxy\FarGalaxy.Entities\obj\Debug\FarGalaxy.Entities.csprojAssemblyReference.cache
+C:\Users\Nicolas\Source\Repos\FarGalaxy\FarGalaxy.Entities\obj\Debug\FarGalaxy.Entities.csproj.CoreCompileInputs.cache
+C:\Users\Nicolas\Source\Repos\FarGalaxy\FarGalaxy.Entities\obj\Debug\FarGalaxy.Entities.csproj.CopyComplete
+C:\Users\Nicolas\Source\Repos\FarGalaxy\FarGalaxy.Entities\obj\Debug\FarGalaxy.Entities.dll
+C:\Users\Nicolas\Source\Repos\FarGalaxy\FarGalaxy.Entities\obj\Debug\FarGalaxy.Entities.pdb
