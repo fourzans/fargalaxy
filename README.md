@@ -33,7 +33,7 @@ We can call an API URI to retrieve the weather conditions from a single day the 
 
 ## Built With
 
-* [.NET 4.7](https://www.microsoft.com/net/download/dotnet-framework-runtimea) - The framework useda
+* [.NET 4.7](https://www.microsoft.com/net/download/dotnet-framework-runtimea) - The framework used
 * [AutoFac](https://autofac.org/) - IoC container
 * [Redis](https://redis.io/) - NoSQL DB for storing weather conditions
 * [Azure](https://azure.microsoft.com/en-us/) - Cloud platform services to store the API
