@@ -21,7 +21,7 @@ namespace FarGalaxy.Jobs.Manager.Jobs
         public void Execute()
         {
             ForegroundColor = Yellow;
-            WriteLine("\n Retrieving conditions for year(s)...\n");
+            WriteLine($"\n Retrieving conditions for {_years / 365 } year(s)...\n");
             using (ILifetimeScope scope = Container.BeginLifetimeScope())
             {
                 IWeatherConditionsService weatherConditions = scope.Resolve<IWeatherConditionsService>();

@@ -1,0 +1,5 @@
+C:\Users\Nicolas\Source\Repos\FarGalaxy\FarGalaxy.Mathematics\bin\Release\FarGalaxy.Mathematics.dll
+C:\Users\Nicolas\Source\Repos\FarGalaxy\FarGalaxy.Mathematics\bin\Release\FarGalaxy.Mathematics.pdb
+C:\Users\Nicolas\Source\Repos\FarGalaxy\FarGalaxy.Mathematics\obj\Release\FarGalaxy.Mathematics.csproj.CoreCompileInputs.cache
+C:\Users\Nicolas\Source\Repos\FarGalaxy\FarGalaxy.Mathematics\obj\Release\FarGalaxy.Mathematics.dll
+C:\Users\Nicolas\Source\Repos\FarGalaxy\FarGalaxy.Mathematics\obj\Release\FarGalaxy.Mathematics.pdb

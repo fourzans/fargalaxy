@@ -1,0 +1,11 @@
+C:\Users\Nicolas\Source\Repos\FarGalaxy\FarGalaxy.Dto\bin\Release\FarGalaxy.Dto.dll
+C:\Users\Nicolas\Source\Repos\FarGalaxy\FarGalaxy.Dto\bin\Release\FarGalaxy.Dto.pdb
+C:\Users\Nicolas\Source\Repos\FarGalaxy\FarGalaxy.Dto\bin\Release\FarGalaxy.Contracts.dll
+C:\Users\Nicolas\Source\Repos\FarGalaxy\FarGalaxy.Dto\bin\Release\Newtonsoft.Json.dll
+C:\Users\Nicolas\Source\Repos\FarGalaxy\FarGalaxy.Dto\bin\Release\FarGalaxy.Contracts.pdb
+C:\Users\Nicolas\Source\Repos\FarGalaxy\FarGalaxy.Dto\bin\Release\Newtonsoft.Json.xml
+C:\Users\Nicolas\Source\Repos\FarGalaxy\FarGalaxy.Dto\obj\Release\FarGalaxy.Dto.csprojAssemblyReference.cache
+C:\Users\Nicolas\Source\Repos\FarGalaxy\FarGalaxy.Dto\obj\Release\FarGalaxy.Dto.csproj.CoreCompileInputs.cache
+C:\Users\Nicolas\Source\Repos\FarGalaxy\FarGalaxy.Dto\obj\Release\FarGalaxy.Dto.csproj.CopyComplete
+C:\Users\Nicolas\Source\Repos\FarGalaxy\FarGalaxy.Dto\obj\Release\FarGalaxy.Dto.dll
+C:\Users\Nicolas\Source\Repos\FarGalaxy\FarGalaxy.Dto\obj\Release\FarGalaxy.Dto.pdb

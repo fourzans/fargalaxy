@@ -1,0 +1,5 @@
+C:\Users\Nicolas\Source\Repos\FarGalaxy\FarGalaxy.Contracts\bin\Release\FarGalaxy.Contracts.dll
+C:\Users\Nicolas\Source\Repos\FarGalaxy\FarGalaxy.Contracts\bin\Release\FarGalaxy.Contracts.pdb
+C:\Users\Nicolas\Source\Repos\FarGalaxy\FarGalaxy.Contracts\obj\Release\FarGalaxy.Contracts.csproj.CoreCompileInputs.cache
+C:\Users\Nicolas\Source\Repos\FarGalaxy\FarGalaxy.Contracts\obj\Release\FarGalaxy.Contracts.dll
+C:\Users\Nicolas\Source\Repos\FarGalaxy\FarGalaxy.Contracts\obj\Release\FarGalaxy.Contracts.pdb
