@@ -29,7 +29,7 @@ We can call an API URI to retrieve the weather conditions from a single day the 
 
 | VERB | URI | RESULT |
 | :---         | :---           | :---          |
-| GET  | https://fargalaxy-api.azurewebsites.net/weather/566     | {"day":566,"weather":"RainyDay"}    |
+| GET  | https://fargalaxy-api.azurewebsites.net/weather/81     | {"day":81,"weather":"RainyDay"}    |
 
 ## Built With
 
