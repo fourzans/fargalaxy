@@ -30,7 +30,7 @@ namespace FarGalaxy.Jobs.Manager.Jobs
                         weatherConditions.GetWeatherForecastSummary(_years));
 
                 WriteLine($"\t1) Drought days: [{summaryDto.DroughtDays}]");
-                WriteLine($"\t2) Rainy days: [{summaryDto.RainDays}]");
+                WriteLine($"\t2) Rainy days: [{summaryDto.RainyDays}]");
                 WriteLine($"\t\ta) Maximum day of instability: [{summaryDto.DayOfMaximumInstability}]");
                 WriteLine($"\t\tb) Perimeter: [{summaryDto.Perimeter} Km]");
                 WriteLine($"\t3) Periods of optimal pressure and temperature conditions: [{summaryDto.OptimalDays}]");

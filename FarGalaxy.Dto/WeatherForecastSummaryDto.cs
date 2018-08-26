@@ -4,7 +4,7 @@ namespace FarGalaxy.Dto
 {
     public class WeatherForecastSummaryDto : BaseDto
     {
-        public int RainDays { get; set; }
+        public int RainyDays { get; set; }
 
         public int OptimalDays { get; set; }
 

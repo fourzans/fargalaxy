@@ -3,4 +3,3 @@ C:\Users\Nicolas\Source\Repos\FarGalaxy\FarGalaxy.Mathematics\bin\Debug\FarGalax
 C:\Users\Nicolas\Source\Repos\FarGalaxy\FarGalaxy.Mathematics\obj\Debug\FarGalaxy.Mathematics.csproj.CoreCompileInputs.cache
 C:\Users\Nicolas\Source\Repos\FarGalaxy\FarGalaxy.Mathematics\obj\Debug\FarGalaxy.Mathematics.dll
 C:\Users\Nicolas\Source\Repos\FarGalaxy\FarGalaxy.Mathematics\obj\Debug\FarGalaxy.Mathematics.pdb
-C:\Users\Nicolas\Source\Repos\FarGalaxy\FarGalaxy.Mathematics\obj\Debug\FarGalaxy.Mathematics.csprojAssemblyReference.cache

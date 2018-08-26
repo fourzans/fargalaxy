@@ -13,9 +13,6 @@ namespace FarGalaxy.Jobs.Manager.Jobs
 {
     public class CreateInitialConditionsJob : IJob
     {
-        /// <summary>
-        ///     Executes this instance.
-        /// </summary>
         public void Execute()
         {
             ForegroundColor = Yellow;

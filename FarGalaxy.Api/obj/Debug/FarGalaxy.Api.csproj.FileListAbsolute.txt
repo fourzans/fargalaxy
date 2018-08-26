@@ -130,3 +130,4 @@ C:\Users\Nicolas\Source\Repos\FarGalaxy\FarGalaxy.Api\bin\ServiceStack.Text.xml
 C:\Users\Nicolas\Source\Repos\FarGalaxy\FarGalaxy.Api\obj\Debug\FarGalaxy.Api.csproj.CopyComplete
 C:\Users\Nicolas\Source\Repos\FarGalaxy\FarGalaxy.Api\obj\Debug\FarGalaxy.Api.dll
 C:\Users\Nicolas\Source\Repos\FarGalaxy\FarGalaxy.Api\obj\Debug\FarGalaxy.Api.pdb
+C:\Users\Nicolas\Source\Repos\FarGalaxy\FarGalaxy.Api\bin\Autofac.Integration.WebApi.pdb

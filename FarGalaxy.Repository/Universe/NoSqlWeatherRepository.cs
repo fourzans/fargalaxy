@@ -33,12 +33,7 @@ namespace FarGalaxy.Repository
         {
             var key = Format(NoSql.Keys.Volatile, day);
             DaysSummaryDto summaryDto = _noSqlProvider.Get<DaysSummaryDto>(key);
-
-            if (summaryDto != null)
-                return summaryDto;
-
-            summaryDto = _noSqlProvider.Get<DaysSummaryDto>(key);
-
+            
             if (summaryDto != null)
                 return summaryDto;
 
